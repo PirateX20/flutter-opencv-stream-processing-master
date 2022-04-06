@@ -2,6 +2,7 @@
 Seguindo as instruções de https://www.youtube.com/watch?v=wGH_KWpaAVM
 
 Não usa dart.ffi para comunicação entre .dart e .cpp
+aaaaaa
 */
 
 import 'dart:developer';
